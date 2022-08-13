@@ -1,3 +1,8 @@
+Creating clean CSS with BEM methodology \
+https://www.devbridge.com/articles/implementing-clean-css-bem-method/
+
+#######################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
